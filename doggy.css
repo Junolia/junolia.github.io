@@ -1,0 +1,32 @@
+
+body {
+    background: #ffcbcb;
+}
+
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+    color:#132743;
+}
+
+h1 {
+    color:#132743;
+    font-size: 50px;
+    background-color: white;
+    text-align: center;
+    font-weight:bold;
+}
+
+li h4,
+th {
+    color:#407088;
+    list-style: square;
+}
+h3 {
+    text-align: center;
+}
+
+a h4:hover {
+    color:white; 
+}
+
+
